@@ -1,3 +1,4 @@
+#先にwin32ライブラリを入れる必要がある
 import win32com.client as wincl
 
 
